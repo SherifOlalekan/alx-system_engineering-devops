@@ -1,3 +1,2 @@
 #!/bin/bash
-My current working directory
 echo "My current working directory"
