@@ -13,3 +13,6 @@
 12. mkdir -m 751 my_dir - create a directory with specified permission in the current directory\
 13. sudo chgrp school hello - chnge the group owner of hello to school\
 14. sudo chown vincent: staff* - change the owner and group for all files and directories in the current folder to the specifiedrespectively\
+15. sudo chown vincent: staff _hello - change the owner and group of _hello to the specified\
+16. chown --from=guillaume betty hello - will change the owner of hello to betty only if it is own by guillaume first\
+17. telnet towel.blinkenlights.nl - to play star wars iv episode in terminal\
